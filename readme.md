@@ -1,4 +1,4 @@
-Bakara Course
--------------
+Intoduction to Control Theory Course
+------------------------------------
 
-ex2 - question 3
+with: Goerge Weiss
